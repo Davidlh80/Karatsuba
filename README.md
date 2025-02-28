@@ -45,13 +45,14 @@ main()
 ```
 
 ## Como Executar o Projeto
-1. Certifique-se de ter o Python 3 instalado.
-2. Salve o código como `karatsuba.py`.
+1. Clone este repositório.
+2. Certifique-se de ter o Python 3 instalado.
 3. Execute no terminal:
    ```bash
-   python karatsuba.py
+   cd {caminho relativo onde este repositório foi clonado}
+   python3 main.py
    ```
-4. Insira os valores quando solicitado.
+4. Insira os valores de entrada quando solicitado.
 
 ## Relatório Técnico
 
