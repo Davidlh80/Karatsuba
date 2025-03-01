@@ -1,7 +1,7 @@
 # Algoritmo de Multiplicação de Karatsuba
 
 ## Descrição do Projeto
-O algoritmo de Karatsuba é um método eficiente de multiplicação de dois números inteiros grandes, que reduz a complexidade para aproximadamente \(O(n^{\log_2 3})\), tornando-o mais rápido do que a multiplicação tradicional \(O(n^2)\) para números grandes.
+O algoritmo de Karatsuba é um método eficiente de multiplicação de dois números inteiros grandes, que reduz a complexidade para aproximadamente $$\(O(n^{\log_2 3})\)$$, tornando-o mais rápido do que a multiplicação tradicional $$\(O(n^2)\)$$ para números grandes.
 
 ### Explicação do Código Linha a Linha
 ```python
