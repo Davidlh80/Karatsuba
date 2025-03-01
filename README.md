@@ -71,6 +71,6 @@ A complexidade ciclomática é calculada como:
 Isso indica que a função tem 3 caminhos independentes, condizente com a divisão e recursão do algoritmo.
 
 ### Análise da Complexidade Assintótica
-- **Melhor caso**: \( O(1) \) quando `x` ou `y` são menores que 10.
-- **Caso médio e pior caso**: \( O(n^{\log_2 3}) \approx O(n^{1.585}) \), pois o algoritmo divide `n` ao meio a cada chamada recursiva.
+- **Melhor caso**: $$\( O(1) \)$$ quando `x` ou `y` são menores que 10.
+- **Caso médio e pior caso**: $$\( O(n^{\log_2 3}) \approx O(n^{1.585}) \)$$, pois o algoritmo divide `n` ao meio a cada chamada recursiva.
 - **Complexidade espacial**: \( O(n) \) devido à profundidade da recursão.
